@@ -12,7 +12,7 @@ import java.util.Scanner;
 import java.lang.Math;
 /**
  *
- * @author jafet
+ * @author Eduardo
  */
 public class Nombre {
         public static void main(String[] args) 
