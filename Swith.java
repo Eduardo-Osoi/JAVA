@@ -9,7 +9,7 @@ import java.lang.Math;
 /**3
  * 
  *
- * @author jafet
+ * @author Eduardo
  */
 public class Swith {
     
