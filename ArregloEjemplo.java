@@ -7,7 +7,7 @@ package programacion.pkg1;
 
 /**
  *
- * @author jafet
+ * @author Eduardo
  */
 public class ArregloEjemplo {
     
