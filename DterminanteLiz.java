@@ -7,7 +7,7 @@ package programacion.pkg1;
 import java.util.Scanner;
 /**
  *
- * @author jafet
+ * @author Eduardo
  */
 public class DterminanteLiz {
     
