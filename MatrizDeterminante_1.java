@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author jafet
+ * @author Eduardo
  */
 public class MatrizDeterminante_1 {
      
