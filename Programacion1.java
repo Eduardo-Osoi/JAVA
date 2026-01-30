@@ -11,7 +11,7 @@ import java.lang.Math;
 
 /**
  *
- * @author jafet
+ * @author Eduardo
  */
 public class Programacion1 {
 
